@@ -32,6 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 test/
-resources/
+resources/static/
+resources/templates/
 mvnw
 mvnw.cmd
